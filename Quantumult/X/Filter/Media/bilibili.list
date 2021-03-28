@@ -1,0 +1,4 @@
+# > bilibili
+user-agent, bili*, Bilibili
+host-suffix, hdslb.com, Bilibili
+host-keyword, bili, Bilibili
